@@ -2,10 +2,12 @@
 The  catalog files, the scripts and the functions used for “Taxonomic classification of asteroids based on MOVIS near-infrared colors” (Popescu et al. 2018, A&amp;A)
 
 !!!!!!!
-******** The catalog file with the taxonomic classification*************
+******** The catalog file with the taxonomic classification
+
 /Files/MOVIS-CTax.csv
 ************************************************************************
-!!!!!!!
+
+--------------------------------------------------------------------
 
 1. "Files" contains all the files required to generate the taxonomic classification.
 371SpectraDeMeoColor.csv - The synthetic colors computed from the 371 spectra published by DeMeo et al 2009. This represent the training set for the classification algorithms
